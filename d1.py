@@ -5,8 +5,6 @@ print('missing numbers are: ', missing)
 
 # reverse the string as 
 # "I am boy" -> "I ma yob"
-original = "I am boy"
-reverse = ''
-for word in original.split(' '):
-    reverse += word[::-1] + ' '
-print('reverse string : ',reverse)
+original = input('please enter a string:\t')# original = "I am boy"
+reversed = ' '.join(word[::-1] for word in original.split())
+print('reverse string : ',reversed)
