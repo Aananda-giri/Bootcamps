@@ -1,4 +1,8 @@
 {
-    "python.defaultInterpreterPath": "/home/nathan/Documents/machine_env/bin/python",
-    "python.terminal.activateEnvInCurrentTerminal": true
+    "python.defaultInterpreterPath": "/home/machina/Documents/machine_env/bin/python3",
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    // source /home/nathan/Documents/machine_env/bin/activate
+
+    // auto activate python virtual environ
+    "python.terminal.activateEnvironment": true,
 }

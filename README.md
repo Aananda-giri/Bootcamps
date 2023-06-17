@@ -1,9 +1,5 @@
-# 30 days Machine learning Introductory training by college
-sir: https://github.com/Siddhant128-bit
+# Guided Project (rhyme):
+https://projects.coursera.org/run/NPCDH5
 
-# todo
-- sine/cosine curve
-- game trees <1 hr>
+# Help Center:
 
-## credit:
-[Siddhant Sharma](https://github.com/Siddhant128-bit/)
