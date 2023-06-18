@@ -6,5 +6,8 @@
 ## Lab 2: [numpy Example](https://colab.research.google.com/drive/1jHmsuWVkXNcILOwRUIYwACrzv3_Lc1pE?usp=sharing)
 
 ## Lab 3: [water jug problem](https://colab.research.google.com/drive/1p_LjZFECzbRhSGoiPwt07HqmNGNbwj_I?usp=sharing)
-
+## Lab 4: Breadth first and depth first search
+## Lab 4:  Best First, A* search
 ## Lab 6: [predicate logic using pyDatalog](https://colab.research.google.com/drive/1xP-1Fg0yRlpWI5GKN_0oKlRZw5ebjGJx?authuser=1#scrollTo=kNWumOi_aEG4)
+
+## Lab 7: [naive-bayes and hebbian learning](https://colab.research.google.com/drive/1cERzlixfv8mO7zepUqa0nIvvq-Q9zbZF?usp=sharing)
