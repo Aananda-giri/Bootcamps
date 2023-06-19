@@ -1,4 +1,4 @@
-### **Has Multiple Branches**
+# **Has Multiple Branches**
 
 # 30 days Machine learning Introductory training by college
 sir: https://github.com/Siddhant128-bit
