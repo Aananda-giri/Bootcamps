@@ -1,0 +1,33 @@
+Python is an interpreted programming language.
+This means that Python code is compiled at runtime,
+unlike some other languages where the code is first compiled
+to create an executable which can then run.
+The Python interpreter is already installed on the cloud
+desktop, and in order to run it, all we have to do is type
+python3
+in the command prompt and hit
+Enter. Once you do that,
+you will see that the command prompt will change
+to these three triangle brackets.
+This means that the interpreter is now running and
+anything that you type
+in now on this new command prompt, it's considered python
+code. And the interpreter
+will try to compile and execute that code. So let's try it
+out. Let's do something super simple and just type
+in a mathematical expression.
+So let's write five
+plus five minus nine. Right. And press enter.
+Okay, so there we go.
+The interpreter evaluates the expression and prints out
+the value. We will see the result and then another command
+prompt below it.
+Okay, so let's try something else.
+Let's multiply 423 by 839.
+Press enter and there we go.
+We get the result as expected.
+Cool, but this seems a bit limiting.
+So let's expand on what we can do with python a bit and talk
+about variables in the next task.
+Don't close the command prompt window just yet.
+We will continue to use it in the next task.
