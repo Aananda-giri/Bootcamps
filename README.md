@@ -1,5 +1,7 @@
 # Book : Beginning node js
 
+- [source-code](github.com/greglim81/expresss_chap3-8)
+
 Nodejs, Express, MongoDB
 
 - user auth, data validation, async js, password hashing, Express, mongo, template engine, maintaining user session
@@ -47,3 +49,9 @@ app.listen(3000, () =>{
 
 - use nodemon on dev to auto detect changes
 - blog template from [startbootstrap](https://startbootstrap.com/theme/clean-blog)
+- Add "scripts to package.json" and use `pnpm start` to run the code.
+
+# chapter 4
+
+- use ejs for template engine
+- reusable template layouts: header, footer, navbar, scripts
