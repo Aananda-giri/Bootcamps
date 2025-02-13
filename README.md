@@ -67,4 +67,36 @@ app.listen(3000, () =>{
 - data from mongo: post, date
 - [ ] make search function work
 
-# Chapter 7
+# Chapter 7: image file upload
+
+- use
+- `enctype="multipart/form-data"` in form tells browser form contains multimedia data
+
+# Chapter 8: Express Middlewares
+
+- middlewares are functions express executes in the middle after request which produce output that can be final output or be used by next middleware.
+- // "Custom middleware called" will be displayed every time you refresh the app.
+
+// apply this middleware for specific url pattern (specific request).
+app.use('posts/store', validateMiddleWare);
+
+```
+
+- Good use case: form validation
+```
+
+# Chapter 9: Refactoring to MVC
+
+- Model view controller
+  Model: structure of the data
+  View: what is presented to the user (e.g. ejs files)
+  Controller: controls requests of user and genereate appropriate response
+
+- user interacts with view, which genereates appropriate request which is handele by controlller which then renders the appropriate view with Model data as response.
+
+- in this chapter, we will refactor controller layer
+- `controllers/newPost.js`
+
+```
+
+```
