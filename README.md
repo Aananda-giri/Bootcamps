@@ -97,6 +97,12 @@ app.use('posts/store', validateMiddleWare);
 - in this chapter, we will refactor controller layer
 - `controllers/newPost.js`
 
-```
+# Chapter 10: User Reginsration
 
-```
+- user interacts with view, which genereates appropriate request which is handele by controlller which then renders the appropriate view with Model data as response.
+
+## encrypt the password
+
+- mongoose model hook (hook is just a middleware)
+- `npm i bcrypt --save` to encrypt passwords
+- [ ] todo: error: bcrypt MODULE_NOT_FOUND
