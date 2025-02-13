@@ -55,3 +55,16 @@ app.listen(3000, () =>{
 
 - use ejs for template engine
 - reusable template layouts: header, footer, navbar, scripts
+
+# Chapter 5
+
+- mongodb
+- mongodb compass
+- CRUD: Create, Read, Update, Delete
+
+# Chapter 6
+
+- data from mongo: post, date
+- [ ] make search function work
+
+# Chapter 7
