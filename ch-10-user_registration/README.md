@@ -15,3 +15,9 @@
 - mongoose model hook (hook is just a middleware)
 - `npm i bcrypt --save` to encrypt passwords
 - [ ] todo: error: bcrypt MODULE_NOT_FOUND
+
+# Error: Cannot find module: Bcrypt
+
+- `pnpm rebuild bcryptjs`
+- remove: `node_modules/` and `pnpm-lock.yaml`
+  - run `pnpm install bcryptjs --save`

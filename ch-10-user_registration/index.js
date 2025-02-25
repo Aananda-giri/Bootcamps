@@ -98,7 +98,7 @@ const storeUserController = require('./controllers/storeUser');
 app.post('/users/register', storeUserController);
 
 const loginController = require('./controllers/login');
-app.post('/auth/login', loginController);
+app.get('/auth/login', loginController);
 
 // apply login user controller
 const loginUserController = require('./controllers/loginUser');
