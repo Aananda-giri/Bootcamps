@@ -22,7 +22,7 @@ pnpm -v
 
 - we call the function request handler
 
-# Chapter 2
+# Chapter 2 (group-1)
 
 ## express js
 
@@ -45,34 +45,34 @@ app.listen(3000, () =>{
 
 `node index.js`
 
-# Chapter 3
+# Chapter 3 (group-2)
 
 - use nodemon on dev to auto detect changes
 - blog template from [startbootstrap](https://startbootstrap.com/theme/clean-blog)
 - Add "scripts to package.json" and use `pnpm start` to run the code.
 
-# chapter 4
+# chapter 4 (group-2)
 
 - use ejs for template engine
 - reusable template layouts: header, footer, navbar, scripts
 
-# Chapter 5
+# Chapter 5 (group-2)
 
 - mongodb
 - mongodb compass
 - CRUD: Create, Read, Update, Delete
 
-# Chapter 6
+# Chapter 6 (group-2)
 
 - data from mongo: post, date
 - [ ] make search function work
 
-# Chapter 7: image file upload
+# Chapter 7: image file upload (group-2)
 
 - use
 - `enctype="multipart/form-data"` in form tells browser form contains multimedia data
 
-# Chapter 8: Express Middlewares
+# Chapter 8: Express Middlewares (group-2)
 
 - middlewares are functions express executes in the middle after request which produce output that can be final output or be used by next middleware.
 - // "Custom middleware called" will be displayed every time you refresh the app.
@@ -85,7 +85,7 @@ app.use('posts/store', validateMiddleWare);
 - Good use case: form validation
 ```
 
-# Chapter 9: Refactoring to MVC
+# Chapter 9: Refactoring to MVC (group-3)
 
 - Model view controller
   Model: structure of the data
@@ -97,7 +97,7 @@ app.use('posts/store', validateMiddleWare);
 - in this chapter, we will refactor controller layer
 - `controllers/newPost.js`
 
-# Chapter 10: User Reginsration
+# Chapter 10: User Reginsration (group-4)
 
 - user interacts with view, which genereates appropriate request which is handele by controlller which then renders the appropriate view with Model data as response.
 
@@ -106,3 +106,17 @@ app.use('posts/store', validateMiddleWare);
 - mongoose model hook (hook is just a middleware)
 - `npm i bcrypt --save` to encrypt passwords
 - [ ] todo: error: bcrypt MODULE_NOT_FOUND
+
+# Chapter 11: User authentication with session (group-4)
+
+## Summary:
+
+- user sessions
+- display conditional login, logout icons
+- 404 not found page
+
+# Chapter 12: (group-5)
+
+# Chapter 13: (group-6)
+
+# Chapter 14: (group-6)
