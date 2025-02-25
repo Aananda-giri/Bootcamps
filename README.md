@@ -1,28 +1,46 @@
-# Book : Beginning node js
+# Book : [Beginning Node.js, Express & MongoDB Development](https://www.amazon.com/Beginning-Node-js-Express-MongoDB-Development/dp/9811480281)
 
-- [source-code](github.com/greglim81/expresss_chap3-8)
+## Home page
 
-Nodejs, Express, MongoDB
+- ![home-page.png](./images/home-page.png)
+
+## create-blog page
+
+- ![create-page.png](./images/create-page.png)
+
+## post page
+
+- ![blog-page.png](./images/blog-page.png)
+
+## Register page
+
+- ![register-page.png](./images/register-page.png)
+
+## login page
+
+- ![login-page.png](./images/login-page.png)
+
+- [source-code by greglim](https://github.com/greglim81?tab=repositories&q=express_&type=&language=&sort=)
+
+## Topics covered:
 
 - user auth, data validation, async js, password hashing, Express, mongo, template engine, maintaining user session
 - log out, new post
 
-## What is nodejs?
+# Chapter-1: Introduction (group-1)
+
+### What is nodejs?
 
 - client makes a resqueest and server responds with html
 - server side languages: node, php, ruby, python,...
 - MEAN stack: mongo, express, Angular, Node
 - MERN stack: use react as front end instead of angular
 
-node -v
-npm -v
-pnpm -v
+# Chapter 2 Intro. npm and express (group-1)
 
 ## Creating our first server
 
 - we call the function request handler
-
-# Chapter 2 (group-1)
 
 ## express js
 
@@ -117,6 +135,20 @@ app.use('posts/store', validateMiddleWare);
 
 # Chapter 12: Showing validation errors (group-5)
 
+- validation errors
+
 # Chapter 13: Relating Posts with User Collection (group-6)
 
+- displaying username (from logged-in user session).
+
 # Chapter 14: (group-6)
+
+- WYSIWYG Editor for user to format the blog post
+- WYSIWYG: What you see is what you get.
+- HTML editor: summernote.org/getting-started/#for-bootstrap-4
+
+# Chapter 15: MongoDB atlas
+
+- Create [mongodb on atlas](https://cloud.mongodb.com/) and replace uri in index.js
+
+# Chapter 16: Deploying to heroku
