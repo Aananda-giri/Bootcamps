@@ -117,6 +117,6 @@ app.use('posts/store', validateMiddleWare);
 
 # Chapter 12: Showing validation errors (group-5)
 
-# Chapter 13: (group-6)
+# Chapter 13: Relating Posts with User Collection (group-6)
 
 # Chapter 14: (group-6)
