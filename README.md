@@ -1,6 +1,23 @@
-# Neural Networks from Scratch (NNFS) book code
+# Bootcamps
 
-- This is code repo for book: https://nnfs.io/
-- I have copied this code from: https://github.com/Sentdex/nnfs_book/tree/main
+This repository contains code and resources from various bootcamps on different technologies. Each bootcamp has its own branch, where the relevant content is organized and maintained.
 
-- Code from the NNFS book (https://nnfs.io) separated by chapter. The NNFS book is written with the Python programming lanauge. If you're interested in seeing this same content, but with 40+ other programming languages, check out: https://github.com/sentdex/nnfsix
+## Available Bootcamps
+
+### 1. Node.js Bootcamp
+- **Branch:** `book_begin_nodejs`
+- **Description:** This branch contains code and notes from the book [Beginning Node.js, Express & MongoDB Development](https://www.amazon.com/Beginning-Node-js-Express-MongoDB-Development/dp/9811480281).
+- **Topics Covered:**
+  - User authentication and session management
+  - Data validation and password hashing
+  - Express.js framework and MongoDB integration
+  - Middleware and MVC architecture
+  - File uploads and form handling
+  - Deployment to Heroku and using MongoDB Atlas
+- **Repository URL:** [book_begin_nodejs branch](https://github.com/Aananda-giri/Bootcamps/tree/book_begin_nodejs)
+
+More branches and bootcamps will be added soon!
+
+---
+Happy coding!
+
