@@ -115,7 +115,7 @@ app.use('posts/store', validateMiddleWare);
 - display conditional login, logout icons
 - 404 not found page
 
-# Chapter 12: (group-5)
+# Chapter 12: Showing validation errors (group-5)
 
 # Chapter 13: (group-6)
 

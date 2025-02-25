@@ -10,10 +10,6 @@ module.exports = async (req, res) =>{
         await BlogPost.create({...req.body, image:'/img/' + image.name});
         res.redirect('/');
     } catch (error) {
-        const validationErrors = Object.keys(error.errors).map(key=> error.errors[key].message);
-        req.flash('validationErrors', validationErrors);
-        req.flash('data', req.body);
-
         console.error('Error saving post:', error);
         res.redirect('/posts/new');
     }

@@ -6,16 +6,6 @@
 
 - flushing: Remove error data at the end of current request lifecycle
   package: `connect-flash`
-- `pnpm install connect-flash`
+- `pnpm install connect-flash --save`
 
 - Flash also helps storing user data in case of error and page reload with error message
-
-# Todo
-
-pnpm install connect-flash --save
-
-# Summary:
-
-- user sessions
-- display conditional login, logout icons
-- 404 not found page

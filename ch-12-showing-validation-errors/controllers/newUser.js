@@ -3,7 +3,7 @@ module.exports = (req, res) =>{
     // To refill data when reloading due to error
     var username=""
     var password=""
-    const data=req.flash('data')[0];
+    const data=req.flash('data')[0];    // Returns array with data  as first element. so [0]
 
     if (typeof data != "undefined"){
         username = data.username
