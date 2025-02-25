@@ -18,7 +18,7 @@ This repository contains code and resources from various bootcamps on different 
 
 
 ### 2. Node.js Bootcamp
-- **Branch:** [`book_begin_nodejs`]((https://github.com/Aananda-giri/Bootcamps/tree/nnfs_book))
+- **Branch:** [`book_begin_nodejs`](https://github.com/Aananda-giri/Bootcamps/tree/nnfs_book)
 - **Description:** This branch contains code and notes from the book [Beginning Node.js, Express & MongoDB Development](https://www.amazon.com/Beginning-Node-js-Express-MongoDB-Development/dp/9811480281).
 - **Topics Covered:**
   - User authentication and session management
@@ -30,7 +30,7 @@ This repository contains code and resources from various bootcamps on different 
 - **Repository URL:** [book_begin_nodejs branch](https://github.com/Aananda-giri/Bootcamps/tree/book_begin_nodejs)
 
 ### 3. Deep Learning with PyTorch Lightning Bootcamp
-- **Branch:** [book_pytorch_lightning](https://github.com/Aananda-giri/Bootcamps/tree/book-DL-pytorch-lightning)
+- **Branch:** [`book_pytorch_lightning`](https://github.com/Aananda-giri/Bootcamps/tree/book-DL-pytorch-lightning)
 - **Description:** This branch contains code and resources from the book [Deep Learning with PyTorch Lightning](https://www.amazon.com/Deep-Learning-PyTorch-Lightning-high-performance/dp/180056161X) by Kunal Sawarkar. The book demonstrates how to build, train, deploy, and scale deep learning models efficiently using PyTorch Lightning, a lightweight wrapper for PyTorch that simplifies the development process.
 - **Topics Covered:**
   - Configuring PyTorch Lightning for various industry applications
