@@ -1,6 +1,7 @@
 const express = require('express');
 // const path=require('path');
 const mongoose = require('mongoose');
+require('dotenv').config();
 
 const fileUpload =require("express-fileupload");
 
@@ -44,7 +45,11 @@ app.use(flash());
 
 // connect to local mongo database
 // Connect to MongoDB first
-mongoose.connect('mongodb://localhost:27017/my_database', {
+
+// use mongo uri from .env file if available
+let mongo_uri = process.env.mongo_uri;
+if (!mongo_uri){mongo_uri='mongodb://localhost:27017/my_database'}
+mongoose.connect(mongo_uri, {
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
@@ -54,8 +59,6 @@ mongoose.connect('mongodb://localhost:27017/my_database', {
 .catch(error => {
     console.error('MongoDB connection error:', error);
 });
-
-
 
 app.listen(4000,() => {
    console.log('App listening on port 4000') 
