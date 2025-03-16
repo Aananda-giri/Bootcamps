@@ -42,7 +42,7 @@ This repository contains code and resources from various bootcamps on different 
   - Debugging and troubleshooting deep learning models
 - **Repository URL:** [book_pytorch_lightning branch](https://github.com/Aananda-giri/Bootcamps/tree/book_pytorch_lightning)
 
-### 3. RL
+### 4. Reinforcement Learning
 - **Branch:** [`RL`](https://github.com/Aananda-giri/Bootcamps/tree/RL)
 - **Description:** This branch contains code for reinforcement learning tutorials.
 - **`sb3-sentdex/`**
