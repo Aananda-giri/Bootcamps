@@ -18,7 +18,7 @@ This repository contains code and resources from various bootcamps on different 
 
 
 ### 2. Node.js Bootcamp
-- **Branch:** [`book_begin_nodejs`](https://github.com/Aananda-giri/Bootcamps/tree/nnfs_book)
+- **Branch:** [`book_begin_nodejs`](https://github.com/Aananda-giri/Bootcamps/tree/book_begin_nodejs?tab=readme-ov-file)
 - **Description:** This branch contains code and notes from the book [Beginning Node.js, Express & MongoDB Development](https://www.amazon.com/Beginning-Node-js-Express-MongoDB-Development/dp/9811480281).
 - **Topics Covered:**
   - User authentication and session management
