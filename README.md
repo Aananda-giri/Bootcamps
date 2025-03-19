@@ -1,29 +1,14 @@
 # Book: DuckDB in action
 
-## Chapter-1: Introduction
-* 
-* Fast Open source Modern analytics database built by practicioners 
+## ch.1 Introduction
 
-EDA: Exploratory Data Analysis
-
-## Data processing flow
-1. Load data
-2. populate tables
-3. analyze with SQL
-4. Use Results
-
-### Supported data formats
-* CSV, DataFrames, JSON, Parquet files, Apache Arrow columnar data formats, Dtata in cloud buckets like s3, GCP
-
-### Supported data structures
-* Enums, List of arrays, Maps, Structs
-* Create your own types and database
-
-### 
-DESCRIBE to learn about the database
-SUMMARIZE: Statistics per column
-
-CLI plotting tools: youplot
+## ch.2 Getting Started With DuckDB
+### Summary
+* available for: python, R, Node, ...
+* CLI supports dot command
+* `.mode <mode> for line, duckbox and ascii modes.
+* can query CSV files dierectly from an HTTP server by installing httpfs extension
+* can use CLI as step in an data pipelinee, whthout creating tables, by querying  external dataset and writing results to standard out or other files.
 
 # REferences:
 * [duck db docs](https://duckdb.org/docs/stable/)
