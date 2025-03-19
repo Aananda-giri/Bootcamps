@@ -49,7 +49,11 @@ This repository contains code and resources from various bootcamps on different 
   - Stable baseline3 tutorials by sentdex
   - Train, load and save using stable baseline 3
   - Train using Custom Environment
-  
+
+### 5. DuckDB in Action
+- **Branch:** [`RL`](https://github.com/Aananda-giri/Bootcamps/tree/duckdb-in-action)
+- **Description:** This branch contains summary and code for book: DuckDB in Action
+
 
 More branches and bootcamps will be added soon!
 
