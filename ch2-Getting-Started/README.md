@@ -1,5 +1,5 @@
 
-## Chapter-1: Getting Started with DuckDb
+## Chapter-2: Getting Started with DuckDb
 * installation: https://duckdb.org/docs/installation/?version=stable&environment=python
 * (for linux CLI) Download  zip, extract and run: `~/Downloads/duckdb`
 
