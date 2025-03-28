@@ -12,6 +12,11 @@
 - RLHF: GPT  final fine tuning.
 - 
 
+# Ch.3 Chat-GPT assistant
+ - available for pro subscribers.
+
+# ch.4 Exploring Multi agent systems
+
 
 # References:
 
