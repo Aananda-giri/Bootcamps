@@ -16,6 +16,9 @@
  - available for pro subscribers.
 
 # ch.4 Exploring Multi agent systems
+- Exploring multi agent system with microsoft autogen and crewai.
+
+
 
 
 # References:
