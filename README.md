@@ -50,10 +50,19 @@ This repository contains code and resources from various bootcamps on different 
   - Train, load and save using stable baseline 3
   - Train using Custom Environment
 
-### 5. DuckDB in Action
+### 5. DuckDB in Action (incomplete)
 - **Branch:** [`RL`](https://github.com/Aananda-giri/Bootcamps/tree/duckdb-in-action)
 - **Description:** This branch contains summary and code for book: DuckDB in Action
 
+### 6. AI Agents In Action (Incomplets)
+- **Branch:** [`AI-Agents-In-Action`](https://github.com/Aananda-giri/Bootcamps/tree/AI-Agents-In-Action)
+- **Description:** This branch contains summary and code for book: AI-Agents-In-Action
+
+
+
+### 7. crewAI-python
+- **Branch:** [`crewai-python`][https://github.com/Aananda-giri/Bootcamps/tree/crewai-python)
+- **Description:** Crew-AI
 
 More branches and bootcamps will be added soon!
 
