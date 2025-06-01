@@ -66,6 +66,10 @@ This repository contains code and resources from various bootcamps on different 
 
 More branches and bootcamps will be added soon!
 
+
+### 8. MCP (Model Context Protocol)
+- **Branch:** [`MCP`][https://github.com/Aananda-giri/Bootcamps/tree/mcp)
+- **Description:** MCP tutorials
 ---
 Happy coding!
 
