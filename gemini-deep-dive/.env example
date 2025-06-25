@@ -1,0 +1,5 @@
+# from serpapi.com
+SERP_API_KEY=<SERP_API_KEY>
+
+# jokeleopedia
+GEMINI_API_KEY=<GEMINI_API_KEY>

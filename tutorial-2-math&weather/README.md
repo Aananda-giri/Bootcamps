@@ -1,7 +1,7 @@
 https://langchain-ai.github.io/langgraph/agents/mcp/?h=mcp+int#use-mcp-tools
 
 * run weather-server: `uv run weather-server.py`
-
+* run math-server: `uv run math-server.py`
 * run math-server: `uv run client.py`
 
 
