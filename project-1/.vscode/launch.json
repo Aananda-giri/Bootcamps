@@ -1,0 +1,13 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+        {
+            "name":"python: run servers/disicord_mcp_server.py with ../.venv",
+            "type":"python",
+            "request": "launch",
+            "program": "${workspaceFolder}/servers/discord_mcp_server.py",
+            "console": "integratedTerminal",
+            "python": "${workspaceFolder}/../.venv/bin/python"
+        }
+    ]
+}

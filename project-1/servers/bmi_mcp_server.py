@@ -9,4 +9,5 @@ def calculate_bmi(weight: int, height: int) -> str:
     return "BMI: "+str(weight/(height*height))
 
 if __name__ == "__main__":
-    mcp.run(transport="streamable-http")
+    # mcp.run(transport="streamable-http")
+    mcp.run(transport="stdio")

@@ -22,23 +22,56 @@ client = MultiServerMCPClient(
     {
         "math": {
             "command": "python",
-            "args": ["math_mcp_server.py"],
+            "args": ["servers/math_mcp_server.py"],
             "transport": "stdio",
         },
         # "bmi": {
         #     "url": "http://localhost:8000/mcp",
-        #     "transport": "streamable_http",
+        #     "
+        # 
+        # transport": "streamable_http",
         # },
         "file_manager": {
             "command": "python",
-            "args": ["file_manager_server.py"],
+            "args": ["servers/file_manager_server.py"],
+            "transport": "stdio",
+        },
+        "memory": {
+            "command": "python",
+            "args": ["servers/memory_server.py"],
             "transport": "stdio",
         },
         "discord_bot": {
             "command": "python",
-            "args": ["discord_mcp_server.py"],
+            "args": ["servers/discord_mcp_server.py"],
             "transport": "stdio",
         },
+        # # context7-remote server
+        # "context7": {
+        #     "transport": "streamable_http",
+        #     "url": "https://mcp.context7.com/mcp"
+        # },
+        # context7-local server
+        # "mcp": {
+        #     "servers": {
+        #         "context7": {
+        #         "type": "stdio",
+        #         "command": "npx",
+        #         "args": ["-y", "@upstash/context7-mcp"]
+        #         }
+        #     }
+        # },
+
+        # context7-remote server
+        # -----------------------
+        # "mcp": {
+        #     "servers": {
+        #         "context7": {
+        #         "type": "http",
+        #         "url": "https://mcp.context7.com/mcp"
+        #         }
+        #     }
+        # },
     }
 )
 

@@ -2,34 +2,9 @@
 
 
 ## MCP Server
-what is 5*9
-* `uv run math_mcp_server.py`
-* `uv run client_test.py`
-
-## Single Server Client
-* `uv run math_mcp_server.py`
-* `uv run client_single_server.py`
-
-
-## Multi Server Client
 * `uv run math_mcp_server.py`
 * `uv run bmi_mcp_server.py`
 * `uv run client_multi_server.py`
-
-
-## No Session Client
-* a new MCP ClientSession for each tool invocation
-
-* `uv run math_mcp_server.py`
-* `uv run bmi_mcp_server.py`
-* `uv run client_no_session.py`
-
-## Presistent Session Client
-* keep the sessions open for both servers using client.session
-
-* `uv run math_mcp_server.py`
-* `uv run bmi_mcp_server.py`
-* `uv run client_session_presist.py`
 
 
 ## outputs
