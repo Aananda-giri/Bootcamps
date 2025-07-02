@@ -70,6 +70,11 @@ More branches and bootcamps will be added soon!
 ### 8. MCP (Model Context Protocol)
 - **Branch:** [`MCP`](https://github.com/Aananda-giri/Bootcamps/tree/mcp)
 - **Description:** MCP tutorials
+
+### 9. Open-Search
+- **Branch:** [`open-search`](https://github.com/Aananda-giri/Bootcamps/tree/open-search)
+- **Description:** Open Search Tutorials.
+
 ---
 Happy coding!
 
