@@ -75,6 +75,9 @@ More branches and bootcamps will be added soon!
 - **Branch:** [`open-search`](https://github.com/Aananda-giri/Bootcamps/tree/open-search)
 - **Description:** Open Search Tutorials.
 
+### 9. Elastic-Search
+- **Branch:** [`elastic-search`](https://github.com/Aananda-giri/Bootcamps/tree/elastic-search)
+- **Description:** Open Search Tutorials.
 ---
 Happy coding!
 
