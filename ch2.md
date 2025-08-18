@@ -1,3 +1,9 @@
+## why transformers:
+1. one of the most powerful approaches to text-to-image generation is based directly on transformers.
+2. even when models aren’t explicitly based on transformers, such as diffusion models, attention mechanisms
+are still essential. The denoising U-Net backbone used in diffusion models relies on attention to selectively focus on
+relevant parts of the input.
+
 ## 2.1 How does the attention mechanism work
 input text -> tokens -> input embedding -> positional encodings to retain the order of tokens
 
@@ -42,3 +48,4 @@ where,
 * [German To English](https://github.com/harvardnlp/annotated-transformer).
 * [books github repo](https://github.com/markhliu/txt2img)
 * [colab-notebook](https://colab.research.google.com/drive/1_mKkGGIXbE6efzAmRqpw8MzfYJFtkcFA?usp=sharing)
+
